@@ -10,13 +10,6 @@
 
 ###Merging hostnames, labels, and assessments files
 ###
-
-##10238046  BHONE HTET KYAW     T02F  7431880
-##10214614  SWAN PYAE TUN       T05F  7769210
-##10215226  NYAN PHONE HLAING   T05F  7685610
-##10218399  VANESSA WANG YI-JIE T05F  7083233
-##10238218  NAING HTUN LIN AUNG T05F  7436002
-##10247261  SU MON HTET         T05F  7919578
     
 #install.packages('dplyr')
 library(dplyr)
