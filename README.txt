@@ -26,6 +26,11 @@ The partition of the hosts into SET1 and SET2 was done at random based on the
 third-level domain of the hosts, i.e., hosts www1.example.co.uk and
 www2.example.co.uk belong to the same partition.
 
+====================================================================================
+IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FEATURES FILE CAN BE GET FROM https://chato.cl/webspam/datasets/uk2007/features/
+=====================================================================================
+
 FILE: WEBSPAM-UK2007-hostnames.txt
 This file contains the hostid to hostname mapping.
 
