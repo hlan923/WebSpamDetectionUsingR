@@ -108,3 +108,17 @@ SET2, held for testing in the Web Spam Challenge 2008:
     122 spam
     149 undecided
 
+GOALS:
+1. Present a general description of the dataset and present the general properties of the dataset.      
+2. Deploy the classification methods to each of the feature sets and present the results. Analyse and 
+compare the results then discuss the strengths and weaknesses of the classification method used (in the 
+context of this learning problem). 
+3. Deploy the most suitable of these classification methods to each of the 
+features sets and fully justify the choice of method.
+4. Deploy the classification method to combinations of the feature sets. Present the results and offer a 
+qualitative comparison.  
+5. Rank feature sets by the quality of results (first list the feature set that produced the best result, the 
+feature set that produced the poorest result is listed last). 
+6. Fully analyse and compare the results. Use AUC (Area under the ROC curve) as a basis for the comparisons. 
+Fully explain the findings. 
+7. Summarize: What new and interesting things did you discover while working on this project?
