@@ -1,5 +1,5 @@
 
-                      WEBSPAM-UK2007 LABELS
+#                      WEBSPAM-UK2007 LABELS
          http://www.yr-bcn.es/webspam/datasets/uk2007/
 
 VERSION HISTORY
@@ -108,7 +108,7 @@ SET2, held for testing in the Web Spam Challenge 2008:
     122 spam
     149 undecided
 
-GOALS:
+# GOALS:
 1. Present a general description of the dataset and present the general properties of the dataset.      
 2. Deploy the classification methods to each of the feature sets and present the results. Analyse and 
 compare the results then discuss the strengths and weaknesses of the classification method used (in the 
